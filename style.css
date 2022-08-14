@@ -10,7 +10,7 @@ body {
 .for-positioning {
     position: absolute;
     left: 50%;
-    top: 5%;
+    top: 50%;
 }
 
 ul {
